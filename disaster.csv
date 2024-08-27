@@ -1,0 +1,41 @@
+"Name","Disaster","Date","Cost","formatted_date","Year"
+"Gulf States Storms and Flooding (December 1982-January 1983)","Flooding",19821201,4.8,1982-12-01,1982
+"Southeast Drought (Summer 1983)","Drought",19830601,9.3,1983-06-01,1983
+"Tornadoes, Severe Storms, Floods (Spring 1984)","Severe Storm",19840327,1.8,1984-03-27,1984
+"Hurricane Juan (October 1985)","Tropical Cyclone",19851027,4.2,1985-10-27,1985
+"Southeast Drought/Heat Wave (Summer 1986)","Drought",19860601,5,1986-06-01,1986
+"U.S. Drought/Heat Wave (Summer 1988)","Drought",19880601,52.8,1988-06-01,1988
+"Hurricane Hugo (September 1989)","Tropical Cyclone",19890921,22,1989-09-21,1989
+"California Freeze (December 1990)","Freeze",19901218,8.2,1990-12-18,1990
+"Oakland Firestorm (October 1991)","Wildfire",19911001,7.3,1991-10-01,1991
+"Hurricane Andrew (August 1992)","Tropical Cyclone",19920823,58.6,1992-08-23,1992
+"Midwest Flooding (Summer 1993)","Flooding",19930627,44.9,1993-06-27,1993
+"Southeast Ice Storm (February 1994)","Winter Storm",19940208,6.2,1994-02-08,1994
+"South Plains Severe Weather (May 1995)","Severe Storm",19950505,11,1995-05-05,1995
+"Hurricane Fran (September 1996)","Tropical Cyclone",19960905,9.7,1996-09-05,1996
+"Northern Plains Flooding (Spring 1997)","Flooding",19970203,7.1,1997-02-03,1997
+"Hurricane Georges (September 1998)","Tropical Cyclone",19980920,11.2,1998-09-20,1998
+"Hurricane Floyd (September 1999)","Tropical Cyclone",19990914,11.8,1999-09-14,1999
+"Western/Central/Southeast Drought/Heat Wave (Spring-Fall 2000)","Drought",20000301,9,2000-03-01,2000
+"Tropical Storm Allison (June 2001)","Tropical Cyclone",20010605,14.7,2001-06-05,2001
+"U.S. Drought (Spring-Fall 2002)","Drought",20020301,15.6,2002-03-01,2002
+"Hurricane Isabel (September 2003)","Tropical Cyclone",20030918,9,2003-09-18,2003
+"Hurricane Ivan (September 2004)","Tropical Cyclone",20040912,33,2004-09-12,2004
+"Hurricane Katrina (August 2005)","Tropical Cyclone",20050825,195,2005-08-25,2005
+"Midwest/Plains/Southeast Drought (Spring-Summer 2006)","Drought",20060301,9.2,2006-03-01,2006
+"Western/Eastern Drought/Heat Wave (Summer-Fall 2007)","Drought",20070601,5.3,2007-06-01,2007
+"Hurricane Ike (September 2008)","Tropical Cyclone",20080912,42,2008-09-12,2008
+"Southwest/Great Plains Drought (2009)","Drought",20090101,5.1,2009-01-01,2009
+"Arizona Severe Weather (October 2010)","Severe Storm",20101005,5.3,2010-10-05,2010
+"Hurricane Irene (August 2011)","Tropical Cyclone",20110826,18.2,2011-08-26,2011
+"Hurricane Sandy (October 2012)","Tropical Cyclone",20121030,85.9,2012-10-30,2012
+"Western/Plains Drought/Heat Wave (Spring-Fall 2013)","Drought",20130301,13.9,2013-03-01,2013
+"Western Drought (2014)","Drought",20140101,5.2,2014-01-01,2014
+"Western Drought (2015)","Drought",20150101,5.9,2015-01-01,2015
+"Louisiana Flooding (August 2016)","Flooding",20160812,12.9,2016-08-12,2016
+"Hurricane Harvey (August 2017)","Tropical Cyclone",20170825,155,2017-08-25,2017
+"Hurricane Michael (October 2018)","Tropical Cyclone",20181010,30.2,2018-10-10,2018
+"Missouri River and North Central Flooding (March 2019)","Flooding",20190314,13,2019-03-14,2019
+"Hurricane Laura (August 2020)","Tropical Cyclone",20200827,27.4,2020-08-27,2020
+"Hurricane Ida (August 2021)","Tropical Cyclone",20210829,82.4,2021-08-29,2021
+"Hurricane Ian (September 2022)","Tropical Cyclone",20220928,115.2,2022-09-28,2022

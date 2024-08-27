@@ -1,0 +1,16 @@
+"Name","Disaster","Date","Cost","formatted_date","Year"
+"Hurricane Katrina (August 2005)","Tropical Cyclone",20050825,195,2005-08-25,2005
+"Hurricane Harvey (August 2017)","Tropical Cyclone",20170825,155,2017-08-25,2017
+"Hurricane Ian (September 2022)","Tropical Cyclone",20220928,115.2,2022-09-28,2022
+"Hurricane Maria (September 2017)","Tropical Cyclone",20170919,111.6,2017-09-19,2017
+"Hurricane Sandy (October 2012)","Tropical Cyclone",20121030,85.9,2012-10-30,2012
+"Hurricane Ida (August 2021)","Tropical Cyclone",20210829,82.4,2021-08-29,2021
+"Hurricane Irma (September 2017)","Tropical Cyclone",20170906,62,2017-09-06,2017
+"Hurricane Andrew (August 1992)","Tropical Cyclone",19920823,58.6,1992-08-23,1992
+"U.S. Drought/Heat Wave (Summer 1988)","Drought",19880601,52.8,1988-06-01,1988
+"Midwest Flooding (Summer 1993)","Flooding",19930627,44.9,1993-06-27,1993
+"Hurricane Ike (September 2008)","Tropical Cyclone",20080912,42,2008-09-12,2008
+"U.S. Drought/Heat Wave (2012)","Drought",20120101,40.5,2012-01-01,2012
+"Hurricane Ivan (September 2004)","Tropical Cyclone",20040912,33,2004-09-12,2004
+"Hurricane Michael (October 2018)","Tropical Cyclone",20181010,30.2,2018-10-10,2018
+"Western Wildfires, California Firestorm (Summer-Fall 2018)","Wildfire",20180601,29.3,2018-06-01,2018
